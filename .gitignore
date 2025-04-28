@@ -1,0 +1,9 @@
+# Image data
+data/
+
+# Jupyter notebook for testing
+sandbox.ipynb
+
+# Python stuff
+.venv/
+__pycache__/

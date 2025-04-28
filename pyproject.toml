@@ -1,0 +1,17 @@
+[project]
+name = "doggo"
+version = "0.1.0"
+description = "An app that can guess what breed a dog is from a picture"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.2.4",
+    "pillow>=11.1.0",
+    "pre-commit>=4.2.0",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
