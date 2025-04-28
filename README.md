@@ -1,4 +1,4 @@
-# Doggo
+# Doggo (WIP)
 
 An app that can guess what breed a dog is from a picture.
 
