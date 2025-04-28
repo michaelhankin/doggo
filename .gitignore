@@ -1,5 +1,5 @@
 # Image data
-data/
+/data/
 
 # Jupyter notebook for testing
 sandbox.ipynb
